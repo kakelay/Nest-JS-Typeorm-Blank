@@ -65,7 +65,7 @@ $ npm run test:cov
 $ docker-compose up
 
 # run project to connect with Docker Local  and Database using (MYSQL WorkBench)
-$ npm run test:e2e
+$  npm run start:dev   
 
  
 
